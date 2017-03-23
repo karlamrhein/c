@@ -1,4 +1,4 @@
 c
 =
 
-utilities implemented using C
+some utilities implemented using C
